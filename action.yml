@@ -6,3 +6,6 @@ runs:
 outputs:
   shifter_app_url:
     description: 'WordPress Live URL'
+branding:
+  icon: play-circle
+  color: purple
