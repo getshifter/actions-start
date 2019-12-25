@@ -1,5 +1,5 @@
-name: 'Start Sfhiter WordPress'
-description: 'Start Sfhiter WordPress'
+name: 'Start Shifter WordPress'
+description: 'Start Shifter WordPress'
 runs:
   using: 'docker'
   image: 'Dockerfile'
